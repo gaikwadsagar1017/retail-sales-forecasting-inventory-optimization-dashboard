@@ -13,3 +13,8 @@ Python, Pandas, ARIMA, Streamlit
 
 ## Run
 python main.py
+## 📊 Output Screenshots
+
+![Dataset](images/dataset.png)
+![Forecast](images/forecast.png)
+![Inventory](images/inventory.png)
