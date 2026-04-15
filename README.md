@@ -16,5 +16,6 @@ python main.py
 ## 📊 Output Screenshots
 
 ![Dataset](images/dataset.png)
-![Forecast](images/forecast.png)
-![Inventory](images/inventory.png)
+![Dashboard](images/dashboard.png)
+![Forecast](images/forecast_graph.png)
+![Inventory](images/inventory_table.png)
