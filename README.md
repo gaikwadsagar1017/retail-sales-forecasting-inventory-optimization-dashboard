@@ -13,6 +13,9 @@ Python, Pandas, ARIMA, Streamlit
 
 ## Run
 python main.py
+
+## Run dashboard
+streamlit run app/streamlit_app.py
 ## 📊 Output Screenshots
 
 ![Dataset](images/dataset.png)
